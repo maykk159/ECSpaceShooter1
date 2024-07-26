@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_high_scores",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_high_scores",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
